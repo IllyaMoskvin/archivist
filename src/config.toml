@@ -1,0 +1,11 @@
+title = "The Archivist — DIY Book Scanner"
+languageCode = "en-us"
+
+# https://discourse.gohugo.io/t/solved-what-should-be-used-for-the-value-of-site-baseurl/5896
+baseURL = ""
+
+# https://discourse.gohugo.io/t/i-dont-want-tags-and-categories/12091
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+# https://gohugo.io/getting-started/quick-start/
+publishdir = "../dist"
