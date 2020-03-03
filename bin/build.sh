@@ -10,6 +10,7 @@ DIR_SRC="$(realpath "$DIR_ROOT/src")"
 DIR_DIST="$(realpath "$DIR_ROOT/dist")"
 
 hugo \
+    --theme "book" \
     --cleanDestinationDir \
     --source "$DIR_SRC" && \
     find "$DIR_DIST" -type f -name "*.html" -exec sh -c \

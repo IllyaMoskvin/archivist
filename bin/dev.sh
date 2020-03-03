@@ -14,6 +14,7 @@ function cleanup {
 trap cleanup EXIT
 
 hugo server \
+    --theme "book" \
     --renderToDisk \
     --cleanDestinationDir \
     --source "$DIR_SRC"
