@@ -14,6 +14,10 @@ publishdir = "../dist"
 disablePathToLower = true
 enableGitInfo = true
 
+# https://discourse.gohugo.io/t/raw-html-getting-omitted-in-0-60-0
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.
