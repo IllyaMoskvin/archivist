@@ -1,0 +1,15 @@
+<article id="post-839" class="post post-839 page type-page status-publish hentry">
+	<!-- Grab the featured image -->
+
+	<header class="entry-header">
+		<h1 class="entry-title">Clarity on Licensing</h1>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p><a href="index7f0d.html@page_id=16">As I mention here</a>, I don&#8217;t believe Open Hardware Licensing is adequate for building machines like these, and in fact, in some cases, it can even be harmful by leaving people with the wrong idea. </p>
+<p>As a result, I&#8217;m licensing THE <strong>DESIGN</strong> OF THE ARCHIVIST (and the associated design files) as <a href="https://creativecommons.org/publicdomain/zero/1.0/">Public Domain or CC0</a>. That means that you can do WHATEVER YOU WANT with this design, and only the design files, including reproducing the machine and selling it and whatever.</p>
+<p>As a sign of courtesy to me, and a gesture of goodwill, I ask that you credit me for the original design when you reproduce or resell these files, and also include a link to this site (http://diybookscanner.org/archivist). </p>
+<p>ALL OTHER contents of this subsite (meaning http://diybookscanner.org/archivist) are <a href="http://creativecommons.org/licenses/by-sa/3.0/">http://creativecommons.org/licenses/by-sa/3.0/</a> (unported). Please follow the terms exactly. Do not screw this up. </p>
+<p>tldr; the design files are free to use however you want. the site requires attribution and for you to share your changes.</p>
+			</div><!-- .entry-content -->
+	</article>

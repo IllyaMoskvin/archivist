@@ -1,0 +1,14 @@
+<article id="post-267" class="post post-267 page type-page status-publish hentry">
+	<!-- Grab the featured image -->
+
+	<header class="entry-header">
+		<h1 class="entry-title">FR4 Light Mount</h1>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p><a href="wp-content/uploads/2015/03/lighting__0005_DSC01491.JPG.jpg"><img src="wp-content/uploads/2015/03/lighting__0005_DSC01491.JPG-1024x684.jpg" alt="lighting__0005_DSC01491.JPG" width="730" height="488" class="aligncenter size-large wp-image-268" srcset="https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/lighting__0005_DSC01491.JPG-1024x684.jpg 1024w, https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/lighting__0005_DSC01491.JPG-300x200.jpg 300w, https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/lighting__0005_DSC01491.JPG-600x400.jpg 600w, https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/lighting__0005_DSC01491.JPG-1200x802.jpg 1200w" sizes="(max-width: 730px) 100vw, 730px" /></a></p>
+<p>This lighting mount was manufactured from 1/16&#8243; black FR4, purchased from McMaster Carr. FR-4 is a composite material composed of woven fiberglass cloth with an epoxy resin binder that is flame resistant and self-extinguishing. I chose this material specifically for safety reasons. It&#8217;s also easy to process with a laser cutter (500W+) and/or a waterjet (although some care must be taken with the piercing so as not to delaminate the material). It can also be processed with a CNC router, but the resulting fiberglass dust must be carefully controlled. In all but the prototype, I used waterjet processing for its inherent dust control. One of the interesting things about waterjet fabrication is that holes are expensive because the machine must stop and pierce for each hole. For that reason, I turned the three holes around each of the circle output ports into slots, saving about $7/part.</p>
+<p><strong>DXF file of part.</strong><br />
+<a href="wp-content/uploads/2015/03/FR4LightingMount.dxf">FR4LightingMount</a></p>
+			</div><!-- .entry-content -->
+	</article>

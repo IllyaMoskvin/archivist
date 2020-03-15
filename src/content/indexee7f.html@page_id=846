@@ -1,0 +1,30 @@
+<article id="post-846" class="post post-846 page type-page status-publish hentry">
+	<!-- Grab the featured image -->
+
+	<header class="entry-header">
+		<h1 class="entry-title">Spreads</h1>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>Before reading this page, please keep in mind that it is necessarily out-of-date. Spreads is not maintained by me, and since it is software, it is always changing. The homepage for spreads is <a href="http://spreads.readthedocs.org/">spreads.readthedocs.org</a> , and it&#8217;s beautiful.</p>
+<p>A book scanner is 50% hardware and 50% software. While the DIY Book Scanner project has produced many useful Open Source scanning packages, none integrate the total scanning workflow quite like spreads, by Johannes Baiter.</p>
+<p>spreads is a tool that aims to streamline your book scanning workflow. It takes care of every step: Setting up your capturing devices, handling the capturing process, downloading the images to your machine, post-processing them and finally assembling a variety of output formats. The image which runs on the Raspberry Pi computer is called SpreadPi. SpreadPi gives your scanner a web control interface &#8211; meaning you can control it from any device with a web browser &#8211; even your ebook reader. Here is a very early video that I made about Spreads, with a very early version of the software. You should not judge the performance or functionality of the software based on this video, but it should give you a good overview of what it looked like in early 2014 (several major updates have been made since I posted the video):</p>
+<p><iframe width="730" height="411" src="https://www.youtube.com/embed/xL0NmT70QL0?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>Spreadpi marks the second major evolution of the project. In the beginning, the project was founded on a disruptive principle &#8211; cameras being cheaper than textbooks (and, it needs mention, they were hackable with Open Source tools). Those foundations got us very, very far. But Spreads and Spreadpi take advantage of the new, cheap, computer &#8211; the Raspberry Pi. This second-stage of disruptive tech directly addresses one of the least tractable problems we faced, which was getting the software toolchain to work on essentially every computer ever made. </p>
+<p>Spreadpi handles the following (not a complete list):</p>
+<p>1. Controlling and configuring the CHDK-capable Canon Powershot cameras.</p>
+<p>2. Renaming the images in order.</p>
+<p>3. Putting the images into a zip file with appropriate metadata.</p>
+<p>4. Preparing the images for final post-processing via Spreads Server (forthcoming).</p>
+<p>The scanner control system consists of the following components:</p>
+<p><a href="wp-content/uploads/2015/04/SpreadPiControllerWithFootPedalDSC09682_1024x1024.jpg"><img src="wp-content/uploads/2015/04/SpreadPiControllerWithFootPedalDSC09682_1024x1024.jpg" alt="SpreadPiControllerWithFootPedalDSC09682_1024x1024" width="1024" height="682" class="alignnone size-full wp-image-847" srcset="https://www.diybookscanner.org/archivist/wp-content/uploads/2015/04/SpreadPiControllerWithFootPedalDSC09682_1024x1024.jpg 1024w, https://www.diybookscanner.org/archivist/wp-content/uploads/2015/04/SpreadPiControllerWithFootPedalDSC09682_1024x1024-300x200.jpg 300w, https://www.diybookscanner.org/archivist/wp-content/uploads/2015/04/SpreadPiControllerWithFootPedalDSC09682_1024x1024-600x400.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>1. The Raspberry Pi (B+) Computer.</p>
+<p>2. Two CHDK-capable Canon Powershot cameras. 16MP or higher.</p>
+<p>3. Two Canon Powershot Power Supplies.</p>
+<p>4. Two SD cards with CHDK installed (one for each camera).</p>
+<p>5. One MicroSD card with SpreadPi installed (for the Raspberry Pi)</p>
+<p>6. Two Mini-USB cables.</p>
+<p>7. One USB power supply with Micro USB cable (for the Raspberry Pi)</p>
+<p>8. One Ethernet cable (to connect it to your local network).</p>
+			</div><!-- .entry-content -->
+	</article>

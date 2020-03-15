@@ -1,0 +1,120 @@
+<article id="post-566" class="post post-566 page type-page status-publish hentry">
+	<!-- Grab the featured image -->
+
+	<header class="entry-header">
+		<h1 class="entry-title">FAQ</h1>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<blockquote><p>“<br />
+All the best ideas come out of the process;<br />
+they come out of the work itself. -Chuck Close<br />
+”</p></blockquote>
+<p><a name="question3"></a></p>
+<ol>
+<li><a href="index5e6c.html@page_id=566#14"><strong>I&#8217;ve read through all your beautiful articles, but I believe I need some human interaction over here. How can I get support? (O también: Leí todo, pero, ¡necesito ayuda!)</strong></a></li>
+</ol>
+<p><a name="question1"></a></p>
+<h2>The Archivist. What&#8217;s this all about?</h2>
+<ol>
+<li><a href="index5e6c.html@page_id=566#1"><strong>What&#8217;s the difference between this new kit and the old one (Hackerspace scanner)?</strong></a></li>
+<li><a href="index5e6c.html@page_id=566#2"><strong>What&#8217;s the difference between this scanner and the more commercial options?</strong></a></li>
+<li><a href="index5e6c.html@page_id=566#11"><strong>What type of books I can scan with this scanner?</strong></a></li>
+<li><a href="index5e6c.html@page_id=566#12"><strong>Is this scanner suitable for my library?</strong></a></li>
+<li><a href="index5e6c.html@page_id=566#13"><strong>Is this scanner able to scan to archival standards?</strong></a></li>
+<li><a href="index5e6c.html@page_id=566#3"><strong>How do you make this kit?</strong></a></li>
+<li><a href="index5e6c.html@page_id=566#4"><strong>How much does it cost?</strong></a></li>
+<li><a href="index5e6c.html@page_id=566#5"><strong>Does the kit include cameras?</strong></a></li>
+<li><a href="index5e6c.html@page_id=566#8"><strong>I&#8217;m not at the United States. How can I get a scanner?</strong></a></li>
+</ol>
+<p><a name="question2"></a></p>
+<h2>Building a bookscanner: short overview</h2>
+<ol>
+<ol>
+<li><a href="index5e6c.html@page_id=566#6"><strong>I know I want to do this, but I can&#8217;t afford a scanner</strong></a></li>
+<li><a href="index5e6c.html@page_id=566#7"><strong>I want the old kit, what can I do?</strong></a></li>
+<li><a href="index5e6c.html@page_id=566#9"><strong>Can I see the stories of other people building the old kit / a scanner?</strong></a></li>
+<li><a href="index5e6c.html@page_id=566#10"><strong>Can I modify the scanner?</strong></a></li>
+</ol>
+</ol>
+<p><a name="1"></a><a href="index5e6c.html@page_id=566#question1">What&#8217;s the difference between this new kit and the old one?</a></p>
+<p>Although the two kits look similar, there are substantial differences between them. The new kit is a complete redesign. Why? Well, the first kit was intended as a beta &#8211; as a platform for testing technologies and getting feedback. We sold and developed the old scanner for two years, and received crucial critical feedback from hundreds of users &#8211; all of which is incorporated into this new model.</p>
+<p><em><strong>BIGOSITY! HUGEACIOUSNESS!</strong></em><br />
+Best things first: this scanner is bigger, so you can scan bigger books &#8211; up to 12&#215;15” (metric dimensions here). Of course, this means that you will need more megapixels and a better camera. Camera recommendations are here.</p>
+<p><em><strong>SIMPLICITY! AUSTERITY!</strong></em><br />
+The new scanner frame has drastically fewer parts than the old scanner. Great emphasis was placed on making it easier to assemble. Wherever two parts could be merged into one, they were. Wherever a wood screw could be replaced with an Ikea-style furniture bolt, it was. Wherever a washer could be eliminated with a flange nut, it was. The end result is a simpler, more durable machine that can be put together quickly.</p>
+<p><em><strong>COLOR! BOLD, BEAUTIFUL, ACCURATE COLOR!</strong></em><br />
+On the previous scanner, the lighting module was experimental and based on cheap COB LEDs from China. Although it made a cheap and easy system for lightning, it didn’t compare to the lighting on very expensive, archival scanners. Recently, drastic advances have been made in the color rendition that is possible with LED lights, and we optically designed the entire lighting system around these advances. The result is a lighting system that reproduces exceptional color with a measured 95 CRI output, and that produces no IR or UV. Try getting those numbers from other scanner manufacturers, who don’t share this basic technical information. No amount of calibration makes up for poor lighting &#8211; you should be suspicious of anyone using LEDs or CFLs without giving you a CRI number.</p>
+<p><em><strong>WE CARE ABOUT YOUR OPERATORS!</strong></em><br />
+There are many small enhancements across the machine, like the cradle lift stop and the new counterweight system. You can remove the cradle from the scanner, adjust it for each book, and put it back again. Your operator’s backs and arms will thank you &#8211; no more leaning over a machine trying to get things right.</p>
+<p><a name="2"></a><a href="index5e6c.html@page_id=566#question1">What&#8217;s the difference between this scanner and the more commercial options?</a></p>
+<p>The first difference is the price: The Archivist, even including the price of cameras, costs ten times less than the most affordable commercial option.</p>
+<p>The second difference: it’s Open Hardware.</p>
+<p>This scanner was designed differently than most commercial scanners &#8211; for example, the constrained space of your home or library. The scanner itself fits on a normal table. Other scanners, like the Internet Archive Scribe, are about the size of a painting scaffold.</p>
+<p>Other scanners claim to be “future proof” &#8211; but the difference here is that we share the actual design files and source code. You can and will always have one of our scanners if you so desire. If we evaporated tomorrow (unlikely, we’ve been doing this for half a decade), you could take the plans to a machine shop and have one made. And they’re designed to be hacked and modified, designed to provide you with options.</p>
+<p>We have a vibrant community that is constantly providing us input about the way the scanner works, and we are able to answer to those requirements and make major improvements in our designs. This community is also the core that provides us with great code for free software tools.</p>
+<p>And, most important, we are not interested in making money: we are interested in scanning books. That’s the reason why we have been putting a lot of personal money, time and effort into this project. And this means that, ultimately, when we have profits, we’ll put them back to the project, in order to make a better machine and better software.</p>
+<p><a name="11"></a><a href="index5e6c.html@page_id=566#question1">What type of books I can scan with this scanner?</a></p>
+<p>You can scan ANY book that you want, as long as it fits in the cradle and the platen. Since we have modified this to make a better lighting system, now you can scan books with pictures or images you want to preserve. You can scan paperbacks, hardcover books, magazines. And yes, you can also scan loose papers: just put them over the glass of the platen and turn them over gently as you take the pictures.</p>
+<p><a name="12"></a><a href="index5e6c.html@page_id=566#question1">Is this scanner suitable for my library?</a></p>
+<p>Yes. We designed this system for libraries and small archives that don&#8217;t have an enormous capital budget but do need a high quality scanner. It can grow with you and your digitization operation, and you can customize it all you want. The old kit is also being used, with modifications, in different libraries all around the world.</p>
+<p><a name="13"></a><a href="index5e6c.html@page_id=566#question1">Is this scanner able to scan to archival standards?</a></p>
+<p>Yes, depending on your standards. Archival captures depend primarily on two factors: good cameras and the right lighting. The Archivist frame has been designed so that you can capture with nearly arbitrary quality. However, keep in mind that at this time, we are starting out by supporting compact cameras first and then moving on to more professional cameras.</p>
+<p><a name="3"></a><br />
+<a href="index5e6c.html@page_id=566#question1">How do you make this kit?</a></p>
+<p>The kit is made out of <a href="http://www.woodworkerssource.com/blog/tips-tricks/your-ultimate-guide-to-baltic-birch-plywood-why-its-better-when-to-use-it/">plywood</a>, aluminum and steel. We make the scanner out of plywood for a really simple reason: we can use machines that make furniture like the one that you find at Ikea. It’s hard to manufacture and produce the kit in a scalable way, so we need something that can cut the part for us without needing to enter to a large-scale production. Ideally, this would work for you, too.</p>
+<p>For cutting the wood, we use something called &#8220;<a href="https://en.wikipedia.org/wiki/CNC_router">CNC router</a>&#8220;, which is a special machine that cuts all the parts for us. The good thing about making this in a CNC router is that these machines are available in almost in every part of the world, so, if you have the plans and the know-how to do it, is something that you can do by yourself.</p>
+<p><a name="4"></a><br />
+<a href="index5e6c.html@page_id=566#question1">How much does it cost?</a></p>
+<p><a name="5"></a><br />
+<a href="index5e6c.html@page_id=566#question1">Does the kit include cameras?</a></p>
+<p>No. We don&#8217;t provide cameras. You have to buy it separately. However, we do provide you a lot of recommendations about which camera you&#8217;re supposed to buy if intended to be used with The Archivist.</p>
+<p><a name="8"></a><a href="index5e6c.html@page_id=566#question1">I&#8217;m not at the United States. How can I get a scanner?</a></p>
+<ol>
+<ol>
+<ol>
+<li><strong>We ship to every part of the world.</strong> Although the scanners are being designed, manufactured and produced in Los Angeles, California, we ship to every part of the world (Australia, India, and Russia are special cases where the postal costs are so high that it&#8217;s ridiculous). The shipment cost is not included in the price of the kit and it&#8217;s up to the customer to pay for shipping. If there are problems with the shipping (like broken or missing parts), we have always replaced parts for free on a case-by-case basis.</li>
+<li><strong>Resellers.</strong> You can buy the kit from resellers. In Europe &amp; nearby, you can buy it from <a href="http://diybookscanner.eu/">our official reseller</a>. In Latin America &amp; Caribe, please write to diybookscanner [at] gmail.com to see what the best options are for you.</li>
+<li><strong>Build it.</strong> This is Open Hardware. If you have the right tools or the right knowledge, you can always try to build this by yourself: either CNC router it, laser cut it, or build it from scratch. We don&#8217;t provide any official support for this, apart from the discussions in the forum. <a href="http://www.diybookscanner.org/forum/viewtopic.php?f=14&amp;t=1192">Plans available here</a>. Contact us before making kits for commercial purposes.</li>
+</ol>
+</ol>
+</ol>
+<p><a name="6"></a><a href="index5e6c.html@page_id=566#question2">I know I want to do this, but I can&#8217;t afford a scanner</a></p>
+<p>In that case, there are several options.</p>
+<ol>
+<ol>
+<ol>
+<li><strong>Build one.</strong> You can check the forum, spend some hours reading, and try to build one yourself. If you only have a reduced number of books that you want to scan, you don’t need to build something this complicated: software tools will be a good friend to you to get an acceptable result. You can make a basic scanner from a <a href="http://www.instructables.com/id/Bargain-Price-Book-Scanner-From-A-Cardboard-Box/">cardboard box</a>.</li>
+<li><strong>Search for access to a scanner.</strong> You can check the forum to see if there’s someone nearby you that has a scanner: it could be a hackerspace, a library, or just simply someone that lives nearby you, that can lend you access to the scanner. We’re looking for someone to help make a map of scanners, BTW.</li>
+<li><strong>Buy a second hand scanner.</strong> Some people have finished their scanner projects or moved on in life. Check the Agora section of the forum to see if there’s someone selling their scanner, and contact him or her via private message. Diybookscanner.org doesn’t verify its users and doesn’t participate in any commercial operation that they carry, so we aren’t responsible if something bad happens. But you shouldn’t let this disclaimer stop you.</li>
+<li><strong>Use another type of scanner.</strong> This is the way we like to scan books, but definitely it’s not the only way to go. You can always use a flatbed scanner or a hand scanner. You can also use what it is known as “destructive scanning” if your books can be cut apart. It’s the fastest method by far.</li>
+</ol>
+</ol>
+</ol>
+<p><a name="7"></a><br />
+<a href="index5e6c.html@page_id=566#question2">I want the old kit, what can I do?</a></p>
+<p>The new kit has a lot of features that make it much better than the old kit, so we strongly recommend you to buy or build the new kit. But as always, you have options:</p>
+<ol>
+<ol>
+<ol>
+<li><strong>CNC router a copy yourself.</strong> <a href="http://www.diybookscanner.org/forum/viewtopic.php?f=14&amp;t=1192">Plans of the old kit are available here.</a> There’s extensive discussion on the old kit, stories of people that have made them on their own, and more interesting stuff. It’s going to take you a lot of time &#8211; but that’s not a bad thing.</li>
+<li><strong>Laser cut.</strong> Although designed to be cut on a CNC router, you can always try other methods. Some people in the forum <a href="http://www.diybookscanner.org/forum/viewtopic.php?f=14&amp;t=3043">laser cut</a> the old kit.</li>
+<li><strong>Build it from scratch.</strong> If you have the right tools, you can try to cut the wood parts on your own. There are several users in the forum that have experienced doing this in a positive way. They’ve documented their experience <a href="http://www.diybookscanner.org/forum/viewtopic.php?f=14&amp;t=1192">here</a>.</li>
+<li><strong>Agora.</strong> There’s a special section in the forum, called &#8220;<a href="http://diybookscanner.org/forum/viewforum.php?f=28">Agora</a>&#8220;, where you can buy or sell kits, cameras for scanning, or stuff related to the DIY Book Scanning technology. Although you might not find a kit immediately available for sale there, you can check because from time to time someone selling a kit appears. You can always make a post there saying that you’re interested in buying one. DIY Book Scanner is not an intermediary in any of these transactions, so we’re not responsible if anything goes wrong. But usually, nothing goes wrong. Have fun.</li>
+<li><strong>Buy it from a reseller.</strong> You can buy the old kit from resellers. In Europe &amp; nearby, you can buy it from <a href="http://diybookscanner.eu/">our official reseller</a>. In Latin America &amp; Caribe, please write to diybookscanner [at] gmail.com to see what the best options are for you.</li>
+</ol>
+</ol>
+</ol>
+<p><a name="9"></a><br />
+<a href="index5e6c.html@page_id=566#question2">Can I see the stories of other people building the old kit / a scanner?</a></p>
+<p>Sure! The forum is full of stories of people building different models of scanners or the old version of the kit. However, always keep in mind that building a scanner is a different goal from scanning books, so you’ll need to dedicate a lot of time, money and effort to do it, depending on your skills with wood or the selected materials, and you having the right tools to do this work. If you don’t know how to start, these threads should help you a little: <a href="http://diybookscanner.org/forum/viewtopic.php?f=14&amp;t=280">Master Index of All Scanner Builds</a>, <a href="http://diybookscanner.org/forum/viewtopic.php?f=14&amp;t=715">Glossary: DIY Book Scanners and Scanning</a>, and <a href="http://diybookscanner.org/forum/viewtopic.php?f=14&amp;t=1192">A DIY Book Scanner in Every Hackerspace / DIY Kit</a>. Consider that some of this information might be outdated, since it&#8217;s a forum and we don&#8217;t update it.</p>
+<p><a name="10"></a><br />
+<a href="index5e6c.html@page_id=566#question2">Can I modify the scanner?</a></p>
+<p>YES! The Archivist has a Public Domain license, which means that you can study how it is made, modify it, make improvements, distribute them, and even sell your modifications. Feedback to the DIY Book Scanner community is always welcome!</p>
+<p><a name="14"></a><br />
+<a href="index5e6c.html@page_id=566#question3">I&#8217;ve read through all your beautiful articles, but I believe I need some human interaction over here. How can I get support? (O también: Leí todo, pero, ¡necesito ayuda!)</a></p>
+<p>Our first line support is diybookscanner [at] gmail.com. We ask that you please read the docs before asking questions, but then please feel free to ask questions! Paid, human support for Spreadpi is in the works.</p>
+<p>También podemos responder consultas en español.</p>
+<p>Não falamos Português, mas podemos compreender e responder em Espanhol. E entrar em contato com um distribuidor oficial localizada no Brasil.</p>
+			</div><!-- .entry-content -->
+	</article>

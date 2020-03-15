@@ -1,0 +1,53 @@
+<article id="post-651" class="post post-651 page type-page status-publish hentry">
+	<!-- Grab the featured image -->
+
+	<header class="entry-header">
+		<h1 class="entry-title">On Cameras</h1>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p><strong>Which camera should I use with the Archivist Kit?<br />
+</strong><br />
+Cameras are the heart of the Archivist (and every other DIY scanner). One of the core innovations of DIY Book Scanning is the use of cheap compact cameras to do real digitization work. This is possible because there is a software hack for these cheap cameras (<a href="http://chdk.wikia.com/wiki/CHDK">CHDK</a>) that enables control of every parameter over a USB cable.<br />
+For the Archivist the recommended compact cameras are (as of 3/2015):</p>
+<p>Canon Powershot A1400<br />
+Canon Powershot A2500<br />
+Canon Powershot SX160-170<br />
+Canon Powershot A810</p>
+<p>In the development version of Spreads, there is Gphoto2 support for some DSLRs. This is for the adventurous and the technical only as of this writing (3/2015). </p>
+<p><strong>How to choose a camera for book scanning. </strong>Jul 30, 2014</p>
+<p>Selecting the right camera is really important. See <a href="http://www.diybookscanner.org/forum/viewforum.php?f=15">here</a> for evidence: we have years and years of debate on the topic. No question gets asked more often, and so nobody has thought about this more than we have. And we have a three step process for you to figure it out. Keep in mind that we’ve already made solid recommendations for the Archivist kit; this process is for the general case:</p>
+<p><strong>Step 1. How many megapixels do you need?<br />
+</strong><br />
+A. Measure at the books you intend to scan. Aim for the largest average size (don’t choose the largest outliers). For example, most textbooks are around 9 x 11in (22.86cm x  27.94cm).  </p>
+<p>B. Now multiply that size by the PPI (pixels per inch) that you intend to capture. 300 is a safe minimum, though you can’t go wrong by capturing higher than that. So, in our example &#8211; 9*300=2700. 11*300=3300. We need an image that’s at least 2700&#215;3300 = 8910000 pixels, or about 9 megapixels. Now, that’s if you used every pixel perfectly to capture every part of the page, which NEVER happens. So to be safe, add 20-30% for wasted pixels. In this case, that makes 12 megapixels the minimum to get at least 300PPI capture.</p>
+<p><strong>Step 2. How much control do you need?<br />
+</strong><br />
+If you’re just scanning one book, or you’re scanning a book for it’s information content only (as opposed to trying to capture the actual physical appearance of the book), you don’t need very good captures. If the lighting changes, or the camera settings change from shot-to-shot, you’ll still get some kind of result. However, the more perfectly you want to capture the book, and the more pages you want to capture, the more control you need. So assuming you want to do a good job and care about more than just the raw text on any page, you need a camera that lets you control the following:</p>
+<p>1. Shutter speed.<br />
+2. White balance.<br />
+3. Aperture.<br />
+4. ISO.<br />
+5. Flash on/off.<br />
+6. Any custom image processing (sharpenng, color enhancements, etc).<br />
+7. Focus (ideally being able to lock focus).<br />
+8. Exposure compensation.<br />
+9. Zoom.</p>
+<p>Most DSLRs allow for all this kind of control; for compact cameras only Canon Powershot cameras that are capable of running CHDK give you control over all these parameters.<br />
+One more factor to consider: ideally you want to run the cameras from an AC adapter instead of batteries. Check availability of these accessories.</p>
+<p><strong>Step 3. How much money do you have?<br />
+</strong><br />
+If you have a healthy budget, just buy DSLR cameras and use those. Buy the highest resolution you can afford, and try the “kit lens” that comes with the camera body as a starting place (they usually cost only $50-100 over the price of the camera body alone and perform reasonably well).</p>
+<p>If you’re on a budget, the aforementioned Canon compact cameras can often be purchased for as little as $75USD each, and, with a little hacking, produce incredibly high-quality images. They are by far the best “bang for the buck” &#8211; which is what DIY Scanning is all about.</p>
+<p><strong>Can I use my phone camera or a webcam?<br />
+</strong><br />
+While you can use whatever you want, consider that it might not be a good idea to use such cameras. Although phone cameras are getting better every day, they still lack much of the control that we can get from CHDK-enabled compacts. Most do not support a remote control protocol like PTP.  We are working on the best ways to use phone cameras to scan books, but it is definitely not mounting them in this rig. We fully expect mobile phone cameras to eclipse every other option in the next 2-5 years.</p>
+<p><strong>Do I really need two cameras?<br />
+</strong><br />
+You can use the DIY Book Scanner with only one camera, but a lot of different issues will come up with that configuration. You’ll be scanning at half-speed, for starters. Many of the postprocessing tools also assume a left and right camera.</p>
+<p>If your budget is limited, consider that there are different price ranges for cameras, and that you might want to sacrifice some other features of the scanner (like the lightning module). Consider also, that unless your time is free, it may be a false economy. It might end up being cheaper to buy two cameras, using them to scan your books quickly, and to sell the whole thing when you’re done.</p>
+<p>Historically, people have also gotten by with two slightly different camera models. Search the forums for more info on the problems they ran into.</p>
+<p><strong>What&#8217;s coming in the future of cameras that might be good for DIY Book Scanning?</strong><br />
+So much so much. Check out our <a href="http://www.diybookscanner.org/forum/viewtopic.php?f=17&amp;t=788&amp;sid=ab54563888a01acd59b8f68d504e02e5">future-looking thread on that </a>. Another thing to think about is electronic shutters. Most current digital cameras have a shutter that blocks light to the sensor, but some newer models forego the shutter entirely. That&#8217;s great news because the shutter tends to wear out between 50K and 100K actuations. Some people on the DIY Book Scanner forums claim to have gotten millions of shutter clicks out of their cameras, and I believe them &#8211; but still, an electronic shutter will mean a scanner with nearly infinite capture life. </p>
+			</div><!-- .entry-content -->
+	</article>

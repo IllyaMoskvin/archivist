@@ -1,0 +1,34 @@
+<article id="post-236" class="post post-236 page type-page status-publish hentry">
+	<!-- Grab the featured image -->
+
+	<header class="entry-header">
+		<h1 class="entry-title">The Lighting Module Design</h1>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>The lighting module must meet the following criteria: </p>
+<li>It must evenly and uniformly illuminate the page surface.
+</li>
+<p><a href="wp-content/uploads/2015/03/New_Lighting_Vignetting_Corrected_DSC_0012.jpg"><img src="wp-content/uploads/2015/03/New_Lighting_Vignetting_Corrected_DSC_0012-1024x682.jpg" alt="New_Lighting_Vignetting_Corrected_DSC_0012" width="730" height="486" class="alignnone size-large wp-image-809" srcset="https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/New_Lighting_Vignetting_Corrected_DSC_0012-1024x682.jpg 1024w, https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/New_Lighting_Vignetting_Corrected_DSC_0012-300x200.jpg 300w, https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/New_Lighting_Vignetting_Corrected_DSC_0012-600x400.jpg 600w, https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/New_Lighting_Vignetting_Corrected_DSC_0012-1200x800.jpg 1200w" sizes="(max-width: 730px) 100vw, 730px" /></a></p>
+<li>It must have a white balance that can be easily calibrated.
+</li>
+<p><a href="wp-content/uploads/2015/03/tungsten.jpg"><img src="wp-content/uploads/2015/03/tungsten-1024x768.jpg" alt="tungsten" width="730" height="548" class="alignnone size-large wp-image-810" srcset="https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/tungsten.jpg 1024w, https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/tungsten-300x225.jpg 300w" sizes="(max-width: 730px) 100vw, 730px" /></a></p>
+<li>It must not send light where things need to be dark.
+</li>
+<p><a href="wp-content/uploads/2015/03/IlluminationDSC01920.jpg"><img src="wp-content/uploads/2015/03/IlluminationDSC01920-1024x684.jpg" alt="IlluminationDSC01920" width="730" height="488" class="alignnone size-large wp-image-811" srcset="https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/IlluminationDSC01920-1024x684.jpg 1024w, https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/IlluminationDSC01920-300x200.jpg 300w, https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/IlluminationDSC01920-600x400.jpg 600w, https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/IlluminationDSC01920-1200x802.jpg 1200w" sizes="(max-width: 730px) 100vw, 730px" /></a></p>
+<li>It shouldn&#8217;t disturb or be disturbed by the presence of an operator.
+</li>
+<p><a href="wp-content/uploads/2015/03/DSC01915.jpg"><img src="wp-content/uploads/2015/03/DSC01915-1024x684.jpg" alt="DSC01915" width="730" height="488" class="alignnone size-large wp-image-812" srcset="https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/DSC01915-1024x684.jpg 1024w, https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/DSC01915-300x200.jpg 300w, https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/DSC01915-600x400.jpg 600w, https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/DSC01915-1200x802.jpg 1200w" sizes="(max-width: 730px) 100vw, 730px" /></a><br />
+<a href="wp-content/uploads/2015/03/DSC01917.jpg"><img src="wp-content/uploads/2015/03/DSC01917-1024x684.jpg" alt="DSC01917" width="730" height="488" class="alignnone size-large wp-image-813" srcset="https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/DSC01917-1024x684.jpg 1024w, https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/DSC01917-300x200.jpg 300w, https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/DSC01917-600x400.jpg 600w, https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/DSC01917-1200x802.jpg 1200w" sizes="(max-width: 730px) 100vw, 730px" /></a></p>
+<li>It should not block access to any other part of the system.
+</li>
+<p><a href="wp-content/uploads/2015/03/cameraDSC06526.jpg"><img src="wp-content/uploads/2015/03/cameraDSC06526.jpg" alt="cameraDSC06526" width="730" height="487" class="alignnone size-full wp-image-815" srcset="https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/cameraDSC06526.jpg 730w, https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/cameraDSC06526-300x200.jpg 300w, https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/cameraDSC06526-600x400.jpg 600w" sizes="(max-width: 730px) 100vw, 730px" /></a></p>
+<p>Here are some fun images from when I was designing and prototyping the Archivist. The CAD modeling I did predicted the ideal illumination height to be about 46&#8243; from the bottom of the scanner. In the end, it turned out to be 48&#8243; due to some off-axis effects from the lenticular lenses. You can easily see that in this setup, where I moved an illumination source vertically and captured the glare problems it caused as it moved. </p>
+<p><a href="wp-content/uploads/2015/03/glare.jpg"><img src="wp-content/uploads/2015/03/glare.jpg" alt="glare" width="1000" height="750" class="alignnone size-full wp-image-780" srcset="https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/glare.jpg 1000w, https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/glare-300x225.jpg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></p>
+<p><a href="wp-content/uploads/2015/03/DIY_Book_Scanner_glare_elimination.gif"><img src="wp-content/uploads/2015/03/DIY_Book_Scanner_glare_elimination.gif" alt="DIY_Book_Scanner_glare_elimination" width="692" height="519" class="alignnone size-full wp-image-781" /></a></p>
+<p>Although some of the information in these videos is a bit stale, this was the first instance (in 2011) of me systematically exploring lighting issues and trying to determine what effect lighting and camera focal length had on the ideal platen angle. The Archivist employs a 100 degree platen, which in the end turns out to be just a few degrees off the ideal of 106 (search the DIY Book Scanner forums for more on that).<br />
+<iframe width="730" height="411" src="https://www.youtube.com/embed/_xqrEmDkzjI?feature=oembed" frameborder="0" allowfullscreen></iframe><br />
+<iframe width="730" height="411" src="https://www.youtube.com/embed/i5iYmLLWCEg?feature=oembed" frameborder="0" allowfullscreen></iframe><br />
+<iframe width="730" height="411" src="https://www.youtube.com/embed/yCvY_GWuWLM?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+			</div><!-- .entry-content -->
+	</article>

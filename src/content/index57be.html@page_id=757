@@ -1,0 +1,180 @@
+<article id="post-757" class="post post-757 page type-page status-publish hentry">
+	<!-- Grab the featured image -->
+
+	<header class="entry-header">
+		<h1 class="entry-title">Glossary of Book Scanning Terms</h1>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<h1 style="text-align: center;"><a name="A"></a><a href="index57be.html@page_id=757#AA">A</a> || <a name="B"></a><a href="index57be.html@page_id=757#BB">B</a> || <a name="C"></a><a href="index57be.html@page_id=757#CC">C</a> || <a name="D"></a><a href="index57be.html@page_id=757#DD">D</a> || <a name="E"></a><a href="index57be.html@page_id=757#EE">E</a> || <a name="F"></a><a href="index57be.html@page_id=757#FF">F</a> || <a name="G"></a><a href="index57be.html@page_id=757#GG">G</a> || <a name="H"></a><a href="index57be.html@page_id=757#HH">H</a> || <a name="I"></a><a href="index57be.html@page_id=757#II">I</a> || <a name="J"></a><a href="index57be.html@page_id=757#JJ">J</a> || <a name="K"></a><a href="index57be.html@page_id=757#KK">K</a> || <a name="L"></a><a href="index57be.html@page_id=757#LL">L</a> || <a name="M"></a><a href="index57be.html@page_id=757#MM">M</a> || <a name="N"></a><a href="index57be.html@page_id=757#NN">N</a> || <a name="O"></a><a href="index57be.html@page_id=757#OO">O</a> || <a name="P"></a><a href="index57be.html@page_id=757#PP">P</a> || <a name="R"></a><a href="index57be.html@page_id=757#RR">R</a> || <a name="S"></a><a href="index57be.html@page_id=757#SS">S</a> || <a name="T"></a><a href="index57be.html@page_id=757#TT">T</a> || <a name="U"></a><a href="index57be.html@page_id=757#UU">U</a> || <a name="W"></a><a href="index57be.html@page_id=757#WW">W</a></h1>
+<hr />
+<h1 style="text-align: center;"><a name="AA"></a><a href="index57be.html@page_id=757#A">A</a></h1>
+<hr />
+<p><strong>&#8216;A&#8217; size or &#8216;A&#8217; series paper sizes:</strong> set of paper sizes established by the International Standards Organization (ISO) that ranges from 2A0 (the largest) to A7 (the smallest). The size of the paper goes down as the number goes up, and each is half the size of the previous i.e. two A4 sheets make up an A3 piece and two A5 sheets make up an A4 sheet. North America has a different, local standard. <a href="http://en.wikipedia.org/wiki/Paper_size">Read more</a>.</p>
+<p><strong>Aperture:</strong> the size of the opening of the camera&#8217;s shutter. Aperture sizes are reported in F-numbers which are inversely proportional to the aperture size, so a 5.6 aperture setting is smaller than a 4 aperture setting. Aperture, along with shutter speed and ISO setting, determines the image&#8217;s effective exposure by determining the amount of light that reaches the camera&#8217;s sensor and the sensitivity of the sensor to the light. Some point and shoot cameras only have a minimal real aperture setting and instead fake a higher f-number by filtering out some of the incoming light. Aperture settings around 5.6 tend to result in pictures with the greatest sharpness. <a href="http://en.wikipedia.org/wiki/Aperture">Read more</a>.</p>
+<p><strong>Archivist, The:</strong> the latest design of the bookscanner, by Dan Reetz, designed to be cutted in a CNC router. <a href="http://www.diybookscanner.org/en/faq/#question1">Read more</a>.</p>
+<p><a name="sheetfeed"></a><strong>Auto feed scanner:</strong> a type of scanner that uses ADF (Automatic Document Feeder) to scan loose unaided pages and documents. Also called <em>sheet feed scanner</em>.</p>
+<p><strong>Automatic document feeder:</strong> it&#8217;s a method to scan loose papers. It can be added as a feature of a flatbed scanner or be an ADF scanner standalone. <a href="http://en.wikipedia.org/wiki/Automatic_document_feeder">Read more</a>.</p>
+<p><strong>AWB:</strong> Automatic White Balance. See: <a href="index57be.html@page_id=757#whitebalance">White Balance.</a></p>
+<hr />
+<h1 style="text-align: center;"><a name="BB"></a><a href="index57be.html@page_id=757#B">B</a></h1>
+<hr />
+<p><strong>Base:</strong> a part of the book scanner, which holds the rest of the structure.</p>
+<p><strong>Bash:</strong> Bash is a command processor that allows the user to type commands, generally used to automate the execution of tasks through a script. <a href="http://en.wikipedia.org/wiki/Bash_(Unix_shell)">Read more</a>.</p>
+<p><strong>Bitonal:</strong> a 1-bit image, with a foreground colour and a background color (normally, black and white). It&#8217;s usually confused with &#8216;grayscale&#8217;, but actually grayscale is an 8-bit image. <a href="http://en.wikipedia.org/wiki/Binary_image">Read more</a>.</p>
+<p><strong>Book Scan Wizard:</strong> a free software for postprocessing the pictures taken with a bookscanner. Read more about the project in <a href="http://sourceforge.net/projects/bookscanwizard/">SourceForge</a> or in the <a href="http://www.diybookscanner.org/forum/viewforum.php?f=22">DIY Book Scanner forum</a>.</p>
+<p><strong>Book scanning:</strong> the process of converting physical books and magazines into digital media, by using an image scanner. <a href="http://en.wikipedia.org/wiki/Book_scanning">Read more</a>.</p>
+<p><strong>Bridge camera:</strong> a type of digital camera with usually better sensors and lenses than a compact point and shoot camera, but with a single lens that cannot be changed. They often have a wide zoom range however and may also be called super-zoom, ultra-zoom or similar. <a href="http://en.wikipedia.org/wiki/Bridge_camera">Read more</a>.</p>
+<hr />
+<h1 style="text-align: center;"><a name="CC"></a><a href="index57be.html@page_id=757#C">C</a></h1>
+<hr />
+<p><strong>Candela:</strong> the base unit to measure luminous intensity, i.e., the power emitted by a light source in a particular direction. <a href="http://en.wikipedia.org/wiki/Candela">Read more</a>.</p>
+<p><strong>CHDK:</strong> stands for &#8220;<strong>C</strong>anon <strong>H</strong>ack <strong>D</strong>evelopment <strong>K</strong>it&#8221;. A replacement firmware for many Canon cameras that allow more configuration, as well as an external shutter release for those cameras that don&#8217;t have it. This is not an official feature of Canon. <a href="http://chdk.wikia.com/">Read more</a>.</p>
+<p><strong>CHDKptp:</strong> see also <a href="index57be.html@page_id=757#ptp">Picture Transfer Protocol.</a> CHDKptp adds new CHDK-specific operations, modifying the standard operations you can do by only using PTP. <a href="http://chdk.wikia.com/wiki/PTP_Extension">Read more on CHDKwikia</a> and visit the <a href="https://www.assembla.com/wiki/show/chdkptp">development page for chdkptp</a>.</p>
+<p><strong>CNC router:</strong> a computer controlled machine, that automatically cut parts out of several materials (wood, steel, plastic, amongst others), after putting design files into it. <a href="http://en.wikipedia.org/wiki/CNC_router">Read more</a>.</p>
+<p><strong>Color depth:</strong> the number of bits used to indicate the color of a single pixel. <a href="http://en.wikipedia.org/wiki/Color_depth">Read more</a>.</p>
+<p><strong>Color Rendering Index (CRI):</strong> a quantitative measure of the ability of a light source to reveal the colors of various objects faithfully in comparison with an ideal or natural light source. <a href="http://en.wikipedia.org/wiki/Color_rendering_index">Read more</a>.</p>
+<p><strong>Command Line Interface (CLI):</strong> a way to interact with the computer, sending orders to it in the form of text lines. <a href="http://en.wikipedia.org/wiki/Command-line_interface">Read more</a>.</p>
+<p><strong>Compact Fluorescent Lamp (CFL):</strong> a fluorescent lamp designed to replace an incandescent lamp. It&#8217;s a low-energy light-bulb. <a href="http://en.wikipedia.org/wiki/Compact_fluorescent_lamp">Read more</a>.</p>
+<p><strong>compression, Lossless:</strong> a method that uses data compression algorithms that allow the resulting file to be compressed preserving the bits that were used to represent the image and without losing data in the middle. <a href="http://en.wikipedia.org/wiki/Lossless_compression">Read more</a>.</p>
+<p><strong>compression, Lossy:</strong> a method for representing the content that has been encoded, that uses inexact approximations and therefore has data lost in the middle. The resulting file after applying a lossy compression process has less bits than the uncompressed file, but poor quality in comparison with the original file. <a href="http://en.wikipedia.org/wiki/Lossy_compression">Read more</a>.</p>
+<p><strong>Cradle:</strong> a part of the book scanner. It&#8217;s where you put the book in order to keep it open while scanning.</p>
+<hr />
+<h1 style="text-align: center;"><a name="DD"></a><a href="index57be.html@page_id=757#D">D</a></h1>
+<hr />
+<p><strong>Deskewing:</strong> to rotate a scanned image to compensate for skewing, and straighten the text. <a href="http://registry.gimp.org/node/2958">Read more</a>.</p>
+<p><strong>Destructive scanning:</strong> a method to scan books which consist in taking the bindings away (normally with a saw) to feed the pages into an auto feed scanner. Not recommended for libraries or preservation purposes. Read more on the <a href="http://www.diybookscanner.org/forum/viewforum.php?f=30">DIY Book Scanner forum</a>.</p>
+<p><strong>Dewarp:</strong> to straighten or to undo the effects of image warping, which can be caused by optical aberration or by digital manipulation. In DIY Book Scanning, &#8220;dewarping&#8221; refers to the action of flattening the images of the pages of a book with software, so it looks like a flat page instead of a curved page. See also <a href="index57be.html@page_id=757#opticalaberration">optical aberration</a>. Read more on <a href="http://en.wikipedia.org/wiki/Image_warping">Image warping</a>; also, <a href="http://www.leptonica.com/dewarping.html">Dewarping text images</a> by <a href="http://leptonica.com/">Leptonica</a>.</p>
+<p><strong>Diaphgram:</strong> the structure that allows lighting to come through only from the aperture. <a href="https://en.wikipedia.org/wiki/Diaphragm_(optics)">Read more</a>.</p>
+<p><strong>Distributed proofreading:</strong> although the term refers to the <a href="http://en.wikipedia.org/wiki/Distributed_Proofreaders">software designed by Project Gutenberg</a>, is normally accepted as the task of human <a href="http://en.wikipedia.org/wiki/Proofreading">proofreading</a> pages, that had passed through an OCR process, distributed amongst many individuals. Read more about <a href="http://melissaterras.blogspot.com.ar/2010/03/crowdsourcing-manuscript-material.html">projects that are using distributed proofreading</a>.</p>
+<p><strong>DJVU:</strong> a type of digital document format, that allows high compression while preserving high resolution. It&#8217;s a very popular and common format for uploading big image &amp; text files to the Internet. Read more on <a href="http://djvu.org/">the project page</a> and <a href="http://en.wikipedia.org/wiki/DjVu">Wikipedia</a>.</p>
+<p><strong>DJVUBind:</strong> a free-software to create djvu files with metadata and positional OCR. Visit the project on <a href="https://github.com/strider1551/djvubind">Github</a> or read more about it on <a href="http://diybookscanner.org/forum/viewtopic.php?f=3&amp;t=521">DIY Book Scanner forum</a>.</p>
+<p><strong>DPI (Dots Per Inch):</strong> a measurement on how many dots per inch there are in an image. For scanning 200-300 DPI is recommended for general use and OCRing. For images taken by cameras it needs to be calculated. It is a fact of how many megapixels the camera is, and how much of the field of view the page is taking, and how big the page is. <a href="http://en.wikipedia.org/wiki/Dots_per_inch">Read more</a>.</p>
+<p><strong>DSLR:</strong> Digital SLR. A type of camera with interchangeable lenses. They generally offer better quality and flexibility over point &amp; shoot cameras. However, for scanning a disadvantage is that is possible to wear out their internal mirror mechanism after thousands of pictures. They also tend to be more expensive. <a href="http://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera">Read more</a>.</p>
+<hr />
+<h1 style="text-align: center;"><a name="EE"></a><a href="index57be.html@page_id=757#E">E</a></h1>
+<hr />
+<p><strong>E-book:</strong> an electronic book, or a book published in digital format. <a href="http://en.wikipedia.org/wiki/E-book">Read more</a>.</p>
+<p><strong>E-reader:</strong> a mobile device designed to read e-books and other digital media. <a href="http://en.wikipedia.org/wiki/E-reader">Read more</a>.</p>
+<p><strong>EPUB:</strong> free and open book standard for <strong>E</strong>lectronic <strong>PUB</strong>lication. <a href="http://en.wikipedia.org/wiki/EPUB">Read more</a>.</p>
+<p><strong>Exposure:</strong> the amount of light that the image sensor captures and stores as the picture. Higher exposures can wash a picture out to the white end of the spectrum, called over-exposure, while lower exposures can lose color and under-expose. Aperture, shutter speed, and ISO setting determine the exposure. <a href="http://en.wikipedia.org/wiki/Exposure_(photography)">Read more</a>.</p>
+<hr />
+<h1 style="text-align: center;"><a name="FF"></a><a href="index57be.html@page_id=757#F">F</a></h1>
+<hr />
+<p><strong>Flatbed scanner:</strong> a type of scanner that operates with CCD or CIS sensors and a glass, where the item is placed against to be scanned. Compared to bookscanners, it&#8217;s inefficient due to the time it takes to scan a single page, and also because it wears out the bindings of the book. <a href="http://en.wikipedia.org/wiki/Image_scanner#Flatbed">Read more</a>.</p>
+<p><strong>Focus:</strong> the point where light rays originating from a point on the object converge. <a href="http://en.wikipedia.org/wiki/Focus_(optics)">Read more</a>.</p>
+<p><strong>Free software:</strong> a computer software that gives users the possibility to study, modify and distribute copies of the source code of the software. <a href="http://en.wikipedia.org/wiki/Free_software">Read more</a>.</p>
+<hr />
+<h1 style="text-align: center;"><a name="GG"></a><a href="index57be.html@page_id=757#G">G</a></h1>
+<hr />
+<p><strong>G4 compression:</strong> a lossless method of image compression, only used for bitonal images. <a href="http://en.wikipedia.org/wiki/Group_4_compression">Read more</a>.</p>
+<p><strong>GIMP, The:</strong> the GNU Image Manipulation Program, a free software that does tasks like photo retouching, image composition and much more. It also supports scripting. Read more about it on <a href="http://www.gimp.org/">project page</a> and <a href="http://en.wikipedia.org/wiki/GIMP">Wikipedia</a>.</p>
+<p><strong>Graphical User Interface (GUI):</strong> an interface that allows users to interact with electronic devices or computers through the heavy use of icons and other visual indicators. <a href="http://en.wikipedia.org/wiki/Graphical_user_interface">Read more</a>.</p>
+<p><strong>Grayscale:</strong> an 8-bit image, that only carries intensity information. <a href="http://en.wikipedia.org/wiki/Grayscale">Read more</a>.</p>
+<p><strong>Gutter:</strong> the crease between the two pages of an open book. Normally, you&#8217;ll find problems when a book has text really close to the gutter. <a href="http://diybookscanner.org/forum/viewtopic.php?t=2549">Read more about those problems (and a great solution) here</a>.</p>
+<hr />
+<h1 style="text-align: center;"><a name="HH"></a><a href="index57be.html@page_id=757#H">H</a></h1>
+<hr />
+<p><strong>Hackerspace scanner:</strong> one of the first models of scanners, designed by Daniel Reetz, to be cutted in a CNC router. Its design files are publicly disclosed with an Open Hardware license. This scanner was designed as an experimental model to be tested in hackerspaces. Read more on <a href="http://www.diybookscanner.org/forum/viewtopic.php?f=14&amp;t=1192">DIY Book Scanner forum</a>.</p>
+<p><strong>Hand scanner:</strong> see <a href="index57be.html@page_id=757#portablescanner">portable scanner</a>.</p>
+<p><strong>Histogram:</strong> is a graphical representation of distribution of colors in an image (<a href="http://en.wikipedia.org/wiki/Color_histogram">color histogram</a>) or the tonal distribution in a digital image (<a href="http://en.wikipedia.org/wiki/Image_histogram">image histogram</a>). With CHDK, you can enable live histogram.</p>
+<p><strong>hOCR:</strong> an open standard to define data format for representing OCR. It allows the OCR engine to create positional OCR, adding the text as a layer behind the image. <a href="http://en.wikipedia.org/wiki/HOCR">Read more</a>.</p>
+<hr />
+<h1 style="text-align: center;"><a name="II"></a><a href="index57be.html@page_id=757#I">I</a></h1>
+<hr />
+<p><strong>Image compression:</strong> the process to minimize the size in bytes of a graphics file without degrading the quality of the image to an unacceptable level. <a href="http://en.wikipedia.org/wiki/Image_compression">Read more</a>.</p>
+<p><strong>Image scanner:</strong> refers to the generic devices that are able to optically scan physical books, pictures and documents, in order to turn them into digital artifacts. The category includes portable scanners, flatbed scanners, auto feed scanners, planetary scanners, amongst others. <a href="http://en.wikipedia.org/wiki/Image_scanner">Read more</a>.</p>
+<p><strong>Imagemagick:</strong> a free-software suite to create, edit, compose or convert images. It can handle over 200 different type of formats for images. Read more about it on <a href="http://imagemagick.org/">the project page</a> and <a href="http://en.wikipedia.org/wiki/ImageMagick">Wikipedia</a>.</p>
+<p><strong>Imaging module:</strong> a part of the book scanner. It&#8217;s the part of the scanner that goes between the base &amp; cradle and the lighting module. It holds the glass and platen together, and it&#8217;s where you put the digital cameras.</p>
+<p><strong>Interpolated resolution:</strong> unlike the optical resolution, <em>interpolated resolution</em> is a method that fills in the gap between the optical resolution that the equipment is able to do, and the resolution requested by the user. Is not recommended when scanning. Read more about <a href="http://desktoppub.about.com/od/scannerbasics/qt/optical.htm">optical vs. interpolated resolution</a>.</p>
+<p><strong>ISO image:</strong> a file where a exact image of a file system is copied. Mostly used for operating systems. <a href="https://en.wikipedia.org/wiki/ISO_image">Read more</a>.</p>
+<p><strong>ISO setting:</strong> the sensitivity of the camera&#8217;s sensor (or film) to the light that reaches the sensor. Higher ISO settings can give more exposure, or a brighter resulting picture, for the same aperture and shutter speed. However higher ISO settings result in more noise or &#8220;grain&#8221; in the resulting picture. Different cameras drastically differ in the amount of noise for a given ISO setting. ISO setting is the common way to refer to the &#8220;exposure index&#8221;. Read more <a href="http://en.wikipedia.org/wiki/Film_speed">here</a> and <a href="http://en.wikipedia.org/wiki/Exposure_(photography)#Exposure_control">here</a>.</p>
+<hr />
+<h1 style="text-align: center;"><a name="JJ"></a><a href="index57be.html@page_id=757#J">J</a></h1>
+<hr />
+<p><strong>JPEG:</strong> a method of lossy compression for digital images. Also a format file. <a href="http://en.wikipedia.org/wiki/JPEG">Read more</a>.</p>
+<hr />
+<h1 style="text-align: center;"><a name="KK"></a><a href="index57be.html@page_id=757#K">K</a></h1>
+<hr />
+<p><strong>Keystoning:</strong> is when the image of a rectangular page appears as a trapezoid (like the &#8220;keystone&#8221; at the top of an arch). It&#8217;s caused by perspective, when the &#8220;film plane&#8221; isn&#8217;t parallel to the plane of the page. <a href="http://en.wikipedia.org/wiki/Keystone_effect">Read more</a>.</p>
+<hr />
+<h1 style="text-align: center;"><a name="LL"></a><a href="index57be.html@page_id=757#L">L</a></h1>
+<hr />
+<p><strong>Laser cutting:</strong> a technology that uses laser to cut parts of different type of materials, like wood or steel. <a href="http://en.wikipedia.org/wiki/Laser_cutting">Read more</a>.</p>
+<p><strong>LED lamp:</strong> a light-emitting diode assembled to a light bulb. You can have COB (Chip On Board) LED, SMD (Surface Mounted Device) LED, DIP (Dual in line Package structure) LED or S-COB (Stereoscopic Chips On Board) LED. Read more about <a href="http://en.wikipedia.org/wiki/LED_lamp">LED lamps</a> and the <a href="http://www.ari.net.in/COB-Vs--SMD-LED.php">differences between COB &amp; SMD</a>.</p>
+<p><strong>Lighting module:</strong> a part of the book scanner. Is the system that holds the lights together and, in some designs, impedes light to come from the environment.</p>
+<p><strong>Lumen:</strong> the luminous flux of light produced by a light source that emits one candela of luminous intensity over a solid angle of one steradian. <a href="http://en.wikipedia.org/wiki/Lumen_(unit)">Read more</a>.</p>
+<p><strong>Luminous flux:</strong> also called luminous power, is the measure of the perceived power of light. The total power output of a light source adjusted to reflect the varying sensitivity of the human eye to different wavelengths of light. <a href="http://en.wikipedia.org/wiki/Luminous_flux">Read more</a>.</p>
+<p><strong>LZW:</strong> a lossless data compression algorithm for images. <a href="http://en.wikipedia.org/wiki/Lempel–Ziv–Welch">Read more</a>.</p>
+<hr />
+<h1 style="text-align: center;"><a name="MM"></a><a href="index57be.html@page_id=757#M">M</a></h1>
+<hr />
+<p><strong>Macro:</strong> a feature of a camera that allows it to take close up pictures of object. It is usually best to avoid macro setting by keeping the camera further away from the page. <a href="http://en.wikipedia.org/wiki/Macro_photography">Read more</a>.</p>
+<p><strong>MegaPixel:</strong> a million pixels. 3 MP stands for 3.000.000 pixels. See also: <a href="index57be.html@page_id=757#pixel">Pixel</a>. <a href="http://en.wikipedia.org/wiki/Pixel#Megapixel">Read more</a>.</p>
+<p><strong>Metadata:</strong> latin word that stands for &#8216;data about data&#8217;. In this case, is used to refer to the data that describes the digital object. For example, in a document file, normally there&#8217;re going to be fields to describe author, date of creation, format file, copyright status, among other relevant information. An image file likely would have fields such as color depth, original resolution, file format, which camera took the photo, among other relevant information. <a href="http://en.wikipedia.org/wiki/Metadata">Read more</a>.</p>
+<p><strong>Mirrorless Interchangeable Lens Camera (ILC):</strong> a type of camera between a compact, point and shoot camera and a DSLR. They offer picture quality and sensors that overlap with some DSLRs, have some range of lens interchangeability, but don&#8217;t have optical view finders. Examples are the Micro Four Thirds systems from Olympus and Panasonic and the Samsung NX and Sony NEX cameras. <a href="http://en.wikipedia.org/wiki/Mirrorless_interchangeable-lens_camera">Read more</a>.</p>
+<hr />
+<h1 style="text-align: center;"><a name="NN"></a><a href="index57be.html@page_id=757#N">N</a></h1>
+<hr />
+<p><strong>Noise:</strong> a variation of brightness or color information in images. <a href="http://en.wikipedia.org/wiki/Image_noise">Read more</a>.</p>
+<hr />
+<h1 style="text-align: center;"><a name="OO"></a><a href="index57be.html@page_id=757#O">O</a></h1>
+<hr />
+<p><strong>OCR:</strong> stands for Optical Character Recognition. Software that can take a scan, and determine the text on the page. Text that has been OCR&#8217;d can be copy and pasted, or searched, or put on devices with smaller screens. <a href="http://en.wikipedia.org/wiki/Optical_character_recognition">Read more</a>.</p>
+<p><strong>Open Hardware:</strong> open hardware is the public disclosure of the information needed to build certain type of machines, alongside with the drivers that allow the user to take control over them. In this fashion, users can study, build, modifiy and share its results with others. <a href="http://en.wikipedia.org/wiki/Open_source_hardware">Read more</a>.</p>
+<p><strong>Open Source software:</strong> a computer software in which the source code is made available to study, modify and share with others. <a href="http://en.wikipedia.org/wiki/Open-source_software">Read more</a>.</p>
+<p><strong>Open content:</strong> a creative work that others can copy or modify without asking the copyright holder a license or permission for doing so. Normally, to state that something is &#8220;open content&#8221;, the copyright holder adds a license, like a <a href="https://creativecommons.org/licenses/">Creative Commons license</a>. <a href="http://en.wikipedia.org/wiki/Open_content">Read more</a>.</p>
+<p><a name="opticalaberration"></a><strong>Optical aberration:</strong> in an imaging system, optical aberration occurs when light from one point of an object does not converge into (or does not diverge from) a single point after transmission through the system, causing blurring of the image. <a href="http://en.wikipedia.org/wiki/Optical_aberration">Read more</a>.</p>
+<p><strong>Optical Resolution:</strong> the actual resolution that the camera is able to capture. <a href="http://en.wikipedia.org/wiki/Optical_resolution">Read more</a>.</p>
+<hr />
+<h1 style="text-align: center;"><a name="PP"></a><a href="index57be.html@page_id=757#P">P</a></h1>
+<hr />
+<p><strong>PDF:</strong> a file format used to present documents, regardless which software, hardware or operating system is used to read them. <a href="http://en.wikipedia.org/wiki/Portable_Document_Format">Read more</a>.</p>
+<p><strong>Phatch:</strong> a free-software development to perform automated tasks over images, with a Graphical User Interface (GUI). Read more on <a href="http://photobatch.stani.be/">the project page</a>.</p>
+<p><a name="ptp"></a><strong>Picture Transfer Protocol (PTP):</strong> PTP is a protocol that allows the transfer of images, from digital cameras to computer, without needing any additional drivers. <a href="http://en.wikipedia.org/wiki/Picture_Transfer_Protocol">Read more</a>.</p>
+<p><a name="pixel"></a><strong>Pixel:</strong> a physical point in a raster image, or the smallest adressable element in an picture. <a href="http://en.wikipedia.org/wiki/Pixel">Read more</a>.</p>
+<p><strong>Planetary scanners:</strong> a type of image scanner that has a camera mounted above the scanning bed. <a href="http://en.wikipedia.org/wiki/Planetary_scanner">Read more</a>.</p>
+<p><strong>Platen:</strong> the portion of the scanner that holds down the pages of a book. In the standard scanner it is a v shaped part with glass or plexiglass sides.</p>
+<p><strong>Plywood:</strong> a type of wood, that is used to build the structure of the bookscanner (HackerSpace scanner &#038; The Archivist). Read more: ultimate guide to <a href="http://www.woodworkerssource.com/blog/tips-tricks/your-ultimate-guide-to-baltic-birch-plywood-why-its-better-when-to-use-it/">plywood</a> and on <a href="http://en.wikipedia.org/wiki/Plywood">Wikipedia</a>.</p>
+<p><strong>Point &#038; Shoot:</strong> a standard type of compact, consumer camera. <a href="http://en.wikipedia.org/wiki/Point-and-shoot_camera">Read more</a>.</p>
+<p><strong>Polarizing filter:</strong> among other things polarizing filter allows you to remove unwanted reflections from non-metallic surfaces such as water or glass. There are two kinds of polarizing filters: linear and circular. The latter is mostly used with modern cameras. It&#8217;s an attachment to a lens on DSLR and some Point-and-Shoot cameras. <a href="https://en.wikipedia.org/wiki/Polarizing_filter_(photography)">Read more</a>.</p>
+<p><a name="portablescanner"></a><strong>Portable scanner:</strong> a scanner that doesn&#8217;t weight too much and can be carried on in a bag or in a backpack. Normally they come in the presentation of a hand scanner, but they can also be presented as a mouse or as a foldable structure to hold a smartphone and the book while scanning. In general, they can&#8217;t scan more than 300DPI, but they are a convenient solution to scan few books in-place.</p>
+<p><strong>Postprocess:</strong> after scanning a book with an image scanner, the images needs to be edited to be converted into a digital book. This means that you need to crop, remove the borders and margins that aren&#8217;t needed, convert them into bitonal images, make OCR, and merge all the images in a single PDF or DJVU file, or apply proofreading and convert it into an EPUB. This process is not made in each image, one-by-one, but rather is applied in batch-processing, with all the software tools (and others) mentioned here.</p>
+<p><strong>Public domain:</strong> the state that copyrighted works acquire after the copyright has expired or if copyright is inapplicable. This means that the works are free of charge to be used, copied, modified, or digitized. <a href="http://en.wikipedia.org/wiki/Public_domain">Read more</a>.</p>
+<hr />
+<h1 style="text-align: center;"><a name="RR"></a><a href="index57be.html@page_id=757#R">R</a></h1>
+<hr />
+<p><strong>Radiant flux:</strong> measure of the total power of light emitted by a source. <a href="http://en.wikipedia.org/wiki/Radiant_flux">Read more</a>.</p>
+<p><strong>RaspberryPi:</strong> a credit-card sized computer, manufactured in the United Kingdom, that primarily uses Linux-kernel based operating systems. Read more on <a href="http://www.raspberrypi.org/">the project page</a> and <a href="http://en.wikipedia.org/wiki/Raspberry_Pi">Wikipedia</a>.</p>
+<p><strong>RAW:</strong> a format of images on some cameras that is not pre-processed, and not compressed. While it is possible to start with these images for scanning, they are very large and require additional post-processing, so it is generally best to use high quality jpeg images as the source. <a href="http://en.wikipedia.org/wiki/Raw_image_format">Read more</a>.</p>
+<p><strong>Remote control:</strong> in this context, is used to refer to enable remote control of the cameras, meaning that it&#8217;s not necessary to press the shutter each time to take photos.</p>
+<hr />
+<h1 style="text-align: center;"><a name="SS"></a><a href="index57be.html@page_id=757#S">S</a></h1>
+<hr />
+<p><strong>ScanTailor:</strong> a free-software tool to post-process scanned image. By far, it&#8217;s the most used tool by the DIY Book Scanner community. It comes with a Graphical User Interface, but can be used at also with a CLI. Read more on <a href="http://scantailor.org/">the project page</a> and on the <a href="http://www.diybookscanner.org/forum/viewforum.php?f=21">DIY Book Scanner forum</a>.</p>
+<p><strong>Script:</strong> scripts are programs written to execute automated tasks. There are written to perform a set of commands in an automated fashion. <a href="http://en.wikipedia.org/wiki/Scripting_language">Read more</a>.</p>
+<p><strong>SD card:</strong> a nonvolatile memory card. They have different speeds to read and write. This is not that important if you are performing typical actions, but that&#8217;s important when you want to do things like using a SD card to be the hard disk of your Raspberry Pi. In those cases, you&#8217;ll want a Class 10 SD card. <a href="https://en.wikipedia.org/wiki/Secure_Digital">Read more</a>.</p>
+<p><strong>SDM (Stereo Data Maker):</strong> a common software that is based on CHDK, that allows two canon cameras to be fired at the same time, by using modified USB cables and a switch. <a href="http://stereo.jpn.org/eng/sdm/index.htm">Read more</a>.</p>
+<p><strong>Sheet feed scanner:</strong> see <a href="index57be.html@page_id=757#sheetfeed">Auto feed scanner</a>.</p>
+<p><strong>Shutter speed:</strong> in a camera, stands for how long the shutter is open for. For example 1/60 is 1/60 of a second. This isn&#8217;t real critical for scanning because the book and the cameras should be stationary. <a href="http://en.wikipedia.org/wiki/Shutter_speed">Read more</a>.</p>
+<p><strong>Shutter release:</strong> the button on a camera that takes the picture.</p>
+<p><strong>Source code:</strong> computer instructions written in a human-readable computer language. <a href="http://en.wikipedia.org/wiki/Source_code">Read more</a>.</p>
+<p><strong>Spreads:</strong> a free-software tool to control The Archivist scanner. It not only allows the user to control the cameras (to control focus, white balance, and other features), but also it integrates the postprocess workflow in one single tool, using a RaspberryPi. Read more on <a href="http://spreads.readthedocs.org/en/latest/">the project page</a> and on the <a href="http://www.diybookscanner.org/forum/viewforum.php?f=35">DIY Book Scanner forum</a>.</p>
+<p><strong>Standard scanner:</strong> before the Hackerspace scanner and The Archivist scanner, the DIY Book Scanner community used to refer to <a href="http://www.diybookscanner.org/PDF/DIY-High-Speed-Book-Scanner-from-Trash-and-Cheap-C.pdf">model 1</a>, <a href="http://www.diybookscanner.org/forum/viewtopic.php?f=14&amp;t=333&amp;p=3108">model 2</a> and <a href="http://www.diybookscanner.org/public-domain-images-of-the-portable-book-scanner/">model 3</a> as the &#8220;standard scanner&#8221;. <strong>Please notice</strong> that those links refer to out-dated information and that the scanner has improved heavily, so posting those links it&#8217;s for the mere purpose of information.</p>
+<p><strong>Steradian:</strong> a convention to measure the unit of a solid angle. <a href="http://en.wikipedia.org/wiki/Steradian">Read more</a>.</p>
+<hr />
+<h1 style="text-align: center;"><a name="TT"></a><a href="index57be.html@page_id=757#T">T</a></h1>
+<hr />
+<p><strong>Tesseract:</strong> a free-software OCR engine to convert digital images to plain text. <a href="http://en.wikipedia.org/wiki/Tesseract_(software)">Read more</a>.</p>
+<p><strong>Threshold:</strong> a method for image segmentation. The threshold level determines whether a gray tone becomes white or black. <a href="http://en.wikipedia.org/wiki/Thresholding_(image_processing)">Read more</a>.</p>
+<p><strong>TIFF:</strong> a computer file format for storing images, that has a lot of different compression types (G4 compression, LZW, amongst others). <a href="http://en.wikipedia.org/wiki/Tagged_Image_File_Format">Read more</a>.</p>
+<hr />
+<h1 style="text-align: center;"><a name="UU"></a><a href="index57be.html@page_id=757#U">U</a></h1>
+<hr />
+<p><strong>Unpaper:</strong> a free-software post-processing tool for scanned images. Read more on <a href="http://sourceforge.net/projects/unpaper/">the project page</a> and on the <a href="http://www.diybookscanner.org/forum/viewtopic.php?f=3&amp;t=778">DIY Book Scanner forum</a>.</p>
+<hr />
+<h1 style="text-align: center;"><a name="WW"></a><a href="index57be.html@page_id=757#W">W</a></h1>
+<hr />
+<p><a name="whitebalance"></a><strong>White Balance:</strong> The setting on a camera to set the light type. Different types of light make a big difference on the final color of a scans. Cameras have settings like &#8220;tungsten&#8221; &#8220;cloudy&#8221;, &#8220;daylight&#8221; or manual. The goal of setting the white balance is to make the resulting colors accurate.</p>
+			</div><!-- .entry-content -->
+	</article>

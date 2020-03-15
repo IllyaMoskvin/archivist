@@ -1,0 +1,11 @@
+<article id="post-42" class="post post-42 page type-page status-publish hentry">
+	<!-- Grab the featured image -->
+
+	<header class="entry-header">
+		<h1 class="entry-title">Archivist Assembly Manual</h1>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p><strong>This is the official assembly manual for the Archivist scanner</strong>. While prototyping the Archivist, I published <a href="http://makezine.com/projects/make-41-tinkering-toys/diy-book-scanner/">a guide in Make Magazine</a>. You should ignore that article &#8212; it&#8217;s incomplete, overcomplicated, and does not reflect the full design thinking that went into the Archivist. This site is more up-to-date and more complete.</p>
+			</div><!-- .entry-content -->
+	</article>

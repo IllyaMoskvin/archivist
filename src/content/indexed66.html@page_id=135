@@ -1,0 +1,19 @@
+<article id="post-135" class="post post-135 page type-page status-publish hentry">
+	<!-- Grab the featured image -->
+
+	<header class="entry-header">
+		<h1 class="entry-title">Camera Mount</h1>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p><a href="wp-content/uploads/2015/03/CameraMount.jpg"><img class="aligncenter size-large wp-image-164" src="wp-content/uploads/2015/03/CameraMount-1024x682.jpg" alt="CameraMount" width="730" height="486" srcset="https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/CameraMount-1024x682.jpg 1024w, https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/CameraMount-300x200.jpg 300w, https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/CameraMount-600x400.jpg 600w, https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/CameraMount-1200x800.jpg 1200w" sizes="(max-width: 730px) 100vw, 730px" /></a>There are two camera mounts in every Archivist. They are left-right symmetrical, so they can mount on either side. They are manufactured from 18mm Baltic Birch plywood. The mounts have two slots each, to allow the camera to be spaced backward or forward somewhat to adjust for different focal lengths. The slots are long, long enough to allow a camera with an offset lens to be set centered on its optical axis and normal to the platen. The camera mounts are the area of the Archivist most in need of improvement. They are exquisitely general in their current setup, accepting almost any camera from a smartphone to a compact to a DSLR. However, this flexibility comes at a cost &#8211; getting them adjusted right the first time is not a very fun process.</p>
+<p>Originally, I intended to provide 3D printed spacers that set the camera mounts at the right height for a limited range of supported camera models. I also intended to 3D print an adapter that would drop into the slot and locate a camera to 95% of where it needed to be, with the rest being made up in software. This is still a possibility, and the software is mostly capable of handling it, but I will not be the one to do it.</p>
+<p>The camera mount was designed to handle DSLR and compact cameras equally well. It can also hold a camera upside-down if the lens is in a funny place &#8211; and in that configuration, the mount also doubles as a shade that reduces the light incident on the camera (which helps remove the glare image of the camera from the platen surface. I spent quite a bit of time and energy measuring cameras to figure out exactly how much adjustment to build in. In a design like this one, it&#8217;s important to minimize adjustment where possible. Anything that can be adjusted can also be misadjusted.<br />
+<a href="wp-content/uploads/2015/03/2014-02-19-21.11.14-1.jpg"><img src="wp-content/uploads/2015/03/2014-02-19-21.11.14-1-1024x768.jpg" alt="2014-02-19 21.11.14-1" width="730" height="548" class="alignnone size-large wp-image-715" srcset="https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/2014-02-19-21.11.14-1-1024x768.jpg 1024w, https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/2014-02-19-21.11.14-1-300x225.jpg 300w, https://www.diybookscanner.org/archivist/wp-content/uploads/2015/03/2014-02-19-21.11.14-1-1200x900.jpg 1200w" sizes="(max-width: 730px) 100vw, 730px" /></a></p>
+<p><strong>PDF Drawing of part:</strong><br />
+<a href="wp-content/uploads/2015/03/CameraMount.pdf">CameraMount</a></p>
+<p><strong>STL File of Part:</strong><br />
+<a href="wp-content/uploads/2015/03/CameraMount.stl">CameraMount</a></p>
+<p><a href="wp-content/uploads/2015/03/WoodParts5x5for19mmBalticBirch.zip">WoodParts5x5for19mmBalticBirch</a></p>
+			</div><!-- .entry-content -->
+	</article>
